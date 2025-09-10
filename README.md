@@ -9,7 +9,7 @@ cd Sender-Rubika
 ```
 # Run on Windows
 ```
-python sender-Rubika.py
+python sender-rubika.py
 ```
 
 
@@ -23,7 +23,7 @@ cd Sender-Rubika
 ```
 # Run on termux
 ```
-python sender-Rubika.py
+python sender-rubika.py
 ```
 
 telegram = @silent_mimi
