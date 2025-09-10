@@ -18,7 +18,7 @@ async def send_message():
                 await bot.send_message(group, "سلام")
             except Exception as e:
                 print(f"خطا در ارسال به گروه {group}: {e}")
-            await asyncio.sleep(11)
+            await asyncio.sleep(60)
 
 async def main():
     await bot.start()
